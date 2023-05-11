@@ -1,2 +1,2 @@
 # .github
-Pickify Hihiihiiihihihi
+Pickify Description
